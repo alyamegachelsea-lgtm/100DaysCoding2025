@@ -17,7 +17,7 @@ public class Day012.Java {
         
         System.out.println("nama saya :"+ nama);
         System.out.print("umur saya :"+ umur); 
-        System.out.printf("\ntinngi saya %s" ,tinggi);
+        System.out.printf("\ntinngi saya %f" ,tinggi);
         }
     
 }
