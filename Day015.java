@@ -2,14 +2,16 @@ package day015java;
 
 public class Day015java {
     public static void main(String[] args) {
-        int chel = 2;
-        int clas = 20;
-        int plus = 2 + 20;
-        System.out.println(plus);
-        int glas = 4;
-        int korr = 8;
-        int iyy = glas - korr;
-        System.out.println(iyy);
+       int a = 18;
+       int b = 16;
+       int hasil = a + b;
+        System.out.println("Hasil penjumlahan : "+ hasil);
+        
+       int c = 9;
+       int d = 4;
+       int jumlah = c - d;       
+        System.out.println("Hasil pengurangan : "+ jumlah);
+       
     }
     
 }
