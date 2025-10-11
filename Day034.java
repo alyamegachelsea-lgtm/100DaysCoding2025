@@ -6,7 +6,7 @@ public class NewClass1 {
         System.out.print("Masukkan tahun: ");
         int tahun = sc.nextInt();
         
-        if(tahun %4==0 && tahun %100!=0 || tahun %4001==0 ){
+        if(tahun %4==0 && tahun %100!=0 || tahun %400==0 ){
             System.out.println("adalah tahun kabisat");
         
         }else{System.out.println("bukan tahun kabisat");
