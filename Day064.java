@@ -10,9 +10,9 @@ public class M_pangkat_N {
         int N = sc.nextInt();
 
         
-        int hasil = 2;
+        int hasil = 1;
 
-                for (int i = 2; i <= N; i++) {
+                for (int i = 1; i <= N; i++) {
             hasil = hasil * M;
         }
 
