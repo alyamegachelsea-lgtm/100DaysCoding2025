@@ -12,7 +12,7 @@ public class java {
 
         for (int i = 0; i < baris; i++) {
             for (int c = 0; c < kolom; c++) {
-                System.out.print("* ");
+                System.out.print(" 2 ");
             }
             System.out.println();  
         
