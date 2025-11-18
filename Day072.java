@@ -7,7 +7,7 @@ public class Day072 {
         int n = sc.nextInt();
 
         for (int i = n; i >= 1; i--) {           // Mulai dari n sampai 1 (baris menurun)
-            for (int c = 1; c <= i; j++) {       // Cetak angka  sebanyak nilai i
+            for (int c = 1; c <= i; c++) {       // Cetak angka  sebanyak nilai i
                 System.out.print(" # ");
             }
             System.out.println();                
